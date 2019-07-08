@@ -17,7 +17,7 @@ slogan: 'First-year Ph.D. student in MIT-WHOI Joint Program in Oceanography'
 description: 'Arianna is a aquatic microbial ecologist and computational biologist interested in the interface between bioinformatics, modeling, and phytoplankton biology.'
 
 # The credits show up in the includes/_footer.html – It would be nice of you to leave a link to Phlow or Feeling Responsive as a thank you :)
-credits: '<p>Created with &hearts; by <a href="http://phlow.de/">Phlow</a> with <a href="http://jekyllrb.com/" target="_blank">Jekyll</a> based on <a href="http://phlow.github.io/">Feeling Responsive</a>.</p>'
+credits: '<p>Created by Arianna with <a href="http://jekyllrb.com/" target="_blank">Jekyll</a> based on <a href="http://phlow.github.io/">Feeling Responsive</a>.</p>'
 
 # Main author of the website
 # See > authors.yml

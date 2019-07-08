@@ -10,7 +10,7 @@
   url: "/cv/"
   side: left
 
-- title: "Templates"
+- title: "Pictures"
   url: "/design/"
   side: left
   dropdown:
@@ -35,7 +35,7 @@
   - title: "Portfolio"
     url: "/design/portfolio/"
 
-- title: "Header Styles"
+- title: "Papers"
   url: "/headers/"
   side: left
   dropdown:
@@ -53,15 +53,6 @@
     url: "/design/no-header/"
   - title: "No Header but Image"
     url: "/design/no-header-but-image/"
-
-- title: Documentation
-  url: "/documentation/"
-  side: left
-  dropdown:
-  - title: "Changelog"
-    url: "/changelog/"
-  - title: "Roadmap"
-    url: "/roadmap/"
 
 - title: Blog
   url: "/blog/"

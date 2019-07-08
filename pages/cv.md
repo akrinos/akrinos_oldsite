@@ -1,9 +1,8 @@
 ---
 layout: page
-subheadline:  "CV"
+subheadline:  ""
 title:  "CV"
 teaser: "Learn more about my background and research interests."
-
 image:
    thumb: "cv_jun19_1.jpg"
 gallery:
