@@ -3,7 +3,7 @@ layout: page
 title: "Arianna Krinos"
 subheadline: "Ph.D. student in Biological Oceanography"
 teaser: ""
-permalink: "/info/"
+permalink: "/homepage/"
 header:
     image_fullwidth: "grad_shot.jpg"
 ---
