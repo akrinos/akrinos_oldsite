@@ -8,7 +8,4 @@ header:
 permalink: "/papers/"
 ---
 
-Below you can view the pages of my most recent CV.
-<!--more-->
-
-{% include gallery %}
+Check out the Papers dropdown menu to view some of my work, or click the links below.
