@@ -3,6 +3,8 @@ layout: page
 subheadline:  ""
 title:  "CV"
 teaser: "Learn more about my background and research interests."
+header:
+    image_fullwidth: "Fitosatelit4.jpg"
 image:
    thumb: "cv_jun19_1.jpg"
 gallery:
