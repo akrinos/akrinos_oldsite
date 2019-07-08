@@ -14,8 +14,8 @@
   url: "/design/"
   side: left
   dropdown:
-    - title: "Corwith Cramer Cruise"
-        url: "/cruise"
+  - title: "Corwith Cramer Cruise"
+    url: "/cramer/"
   # - title: "Grid & Colors"
     # url: "/design/grid/"
   # - title: "Typography"
