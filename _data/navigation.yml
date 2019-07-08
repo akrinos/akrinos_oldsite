@@ -6,12 +6,11 @@
   url: "/info/"
   side: left
   
-  
- - title: CV
+- title: CV
   url: "/cv/"
   side: left
 
- - title: "Templates"
+- title: "Templates"
   url: "/design/"
   side: left
   dropdown:
