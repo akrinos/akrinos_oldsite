@@ -5,7 +5,7 @@ subheadline: "Ph.D. student in Biological Oceanography"
 teaser: ""
 permalink: "/homepage/"
 header:
-    image_fullwidth: "grad_shot.jpg"
+    image_fullwidth: "villa_pics.jpg"
 ---
 Welcome to my brand new website! I am a Ph.D. student in Biological Oceanography in the MIT-WHOI Joint Program. I am also a Computational Science Graduate Fellow
 with the Department of Energy, meaning that during my career I will conduct a 12-week internship at a DOE lab. I am a proud graduate of Virginia Tech, and 
