@@ -6,7 +6,7 @@ teaser: "View photos of my most recent trip to sea."
 header:
     image_fullwidth: "DSC01669.ARW.jpg"
 image:
-   thumb: "cv_jun19_1.jpg"
+   thumb: "IMG_8590.jpg"
 gallery:
     - image_url: IMG_8590.jpg
     - image_url: DSC02069.ARW.jpg
