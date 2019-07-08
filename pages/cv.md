@@ -15,5 +15,6 @@ permalink: "/cv/"
 ---
 
 Below you can view the pages of my most recent CV.
+<!--more-->
 
 {% include gallery %}

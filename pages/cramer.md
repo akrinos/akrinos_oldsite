@@ -22,5 +22,6 @@ permalink: "/cramer/"
 ---
 
 Below you can view pictures from the welcome cruise for the Joint Program, wherein I spent 10 days aboard the SSV Corwith Cramer.
+<!--more-->
 
 {% include gallery %}
