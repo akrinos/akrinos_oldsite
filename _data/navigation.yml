@@ -1,12 +1,17 @@
-- title: Start
+- title: Home
   url: "/"
   side: left
 
-- title: Getting Started
-  url: "/getting-started/"
+- title: About Arianna
+  url: "/info/"
+  side: left
+  
+  
+ - title: CV
+  url: "/cv/"
   side: left
 
-- title: "Templates"
+ - title: "Templates"
   url: "/design/"
   side: left
   dropdown:
