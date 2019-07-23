@@ -20,7 +20,7 @@ widget2:
 widget3:
   title: "Download my CV!"
   url: 'https://drive.google.com/file/d/1HlU2_PcmyVSu9gMqWa5IeXsHOoZ1fCQV/view?usp=sharing'
-  image: grad_shot.jpg
+  image: DSC02234-thumb.jpg
   text: 'Download a copy of my most recent CV.'
   
 # Use the call for action to show a button on the frontpage
