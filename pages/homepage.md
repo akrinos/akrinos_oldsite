@@ -1,5 +1,5 @@
 ---
-layout: frontpage
+layout: page
 title: "Arianna Krinos"
 subheadline: "Ph.D. student in Biological Oceanography"
 teaser: ""
