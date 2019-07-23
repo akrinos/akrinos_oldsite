@@ -19,7 +19,7 @@ widget2:
 widget3:
   title: "Download my CV!"
   url: 'https://drive.google.com/file/d/1HlU2_PcmyVSu9gMqWa5IeXsHOoZ1fCQV/view?usp=sharing'
-  image: grad_shot.jpg
+  image: DSC02234-thumb.jpg
   text: 'Download a copy of my most recent CV.'
 #
 # Use the call for action to show a button on the frontpage
@@ -43,9 +43,3 @@ widget3:
 homepage: true
 ---
 
-<div id="videoModal" class="reveal-modal large" data-reveal="">
-  <div class="flex-video widescreen vimeo" style="display: block;">
-    <iframe width="1280" height="720" src="https://www.youtube.com/embed/3b5zCFSmVvU" frameborder="0" allowfullscreen></iframe>
-  </div>
-  <a class="close-reveal-modal">&#215;</a>
-</div>
