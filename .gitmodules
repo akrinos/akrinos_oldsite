@@ -1,0 +1,13 @@
+[submodule "akrinosprofsite/themes/academia"]
+	path = akrinosprofsite/themes/academia
+	url = https://github.com/themefisher/academia-hugo.git
+[submodule "akrinosprofsite/themes/pulp"]
+	path = akrinosprofsite/themes/pulp
+	url = https://github.com/koirand/pulp.git
+[submodule "akrinosprofsite/themes/hugo-coder"]
+	path = akrinosprofsite/themes/hugo-coder
+	url = https://github.com/luizdepra/hugo-coder.git
+[submodule "akrinosprofsite/public"]
+	path = akrinosprofsite/public
+	url = https://github.com/akrinos/akrinos.github.io.git
+	branch = master
